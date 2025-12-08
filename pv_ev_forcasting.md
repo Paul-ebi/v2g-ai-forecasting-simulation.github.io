@@ -38,9 +38,9 @@ TimeDistributed(Dense(1))
 ![EV Forecast](assets/img/ev_forecast_sample.png)
 
 4️⃣ Interpretation
-	•	EV availability forecasting performs extremely well
-	•	PV irradiance is noisy and seasonal → higher error expected
-	•	Forecasts feed into the MATLAB model to schedule charging
+- EV availability forecasting performs extremely well
+- PV irradiance is noisy and seasonal → higher error expected
+- Forecasts feed into the MATLAB model to schedule charging
 
-    ---
+---
 
