@@ -1,18 +1,72 @@
 ---
-title: "Load Forecasting (Step 1)"
-
-nav_order:2
+title: "V2G AI Forecasting & Simulation"
+nav_order: 1
 ---
 
-# V2G AI Forecasting & Simulation
+# V2G AI Forecasting & Simulation  
+A research implementation combining **AI forecasting**, **Simulink system modeling**, and **V2G optimization** for smart-grid management.
 
-Welcome to the project website.
+---
 
-## Contents
-- Load Forecasting Results
-- PV & EV Forecasting (Step 2)
-- MATLAB System Model (Step 3)
-- Optimization Framework (Step 4)
-- Research Paper & Documentation
+## 📌 Project Components
 
-More updates coming soon.
+### 1️⃣ Data Preparation (Step 1)
+- Cleaned & synchronized EV, PV, and Load datasets  
+- Resampled to uniform **15-minute intervals**  
+- Outlier removal and null handling  
+- Feature engineering: EV availability, irradiance filtering, temperature inclusion  
+
+➡️ See: [Data Preprocessing](data_preprocessing.md)
+
+---
+
+### 2️⃣ AI Forecasting Layer (Step 2)
+LSTM-based forecasting for:
+
+- **Load demand** (1-step ahead)
+- **PV generation** (24-step ahead)
+- **EV availability** (24-step ahead)
+
+Models:
+- Sliding window: **96 timesteps (24 hours)**  
+- Multi-step horizon: **96 timesteps (24 hours)**  
+- Seq2Seq LSTM architecture  
+
+➡️ See:  
+- [Load Forecasting](load_forecasting.md)  
+- [PV & EV Forecasting](pv_ev_forecasting.md)
+
+---
+
+### 3️⃣ MATLAB/Simulink Energy System Model (Step 3)
+A full microgrid architecture featuring:
+
+- PV subsystem  
+- Community load subsystem  
+- Bidirectional EV charger  
+- Battery storage with efficiency + degradation  
+- Grid import/export node  
+- AI control input port  
+
+➡️ See: [MATLAB Simulation Model](matlab_simulation.md)
+
+---
+
+### 4️⃣ Optimization Layer (Step 4)
+Using the AI forecasts to optimize:
+
+- Grid import cost  
+- PV self-consumption  
+- EV charging/discharging  
+- Battery cycling  
+
+➡️ See: [Optimization Framework](optimization.md)
+
+---
+
+### 5️⃣ Documentation
+All diagrams, tables, methodology notes.
+
+➡️ See: [Documentation](documentation.md)
+
+---
