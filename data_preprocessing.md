@@ -59,9 +59,9 @@ This section documents how EV, Load, and PV datasets were cleaned, aligned, and 
 
 ## 4️⃣ Data Consistency Check
 
-Load range: 2006 → 2010
-Solar range: 2025 → 2025
-EV range:   2020 → 2021
+- Load range: 2006 → 2010
+- Solar range: 2025 → 2025
+- EV range:   2020 → 2021
 
 Datasets do **not** overlap — so models are trained **independently**, not jointly.
 
