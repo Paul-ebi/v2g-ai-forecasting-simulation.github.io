@@ -1,3 +1,9 @@
+---
+title: "Load Forecasting (Step 1)"
+
+nav_order:2
+---
+
 # V2G AI Forecasting & Simulation
 
 Welcome to the project website.
