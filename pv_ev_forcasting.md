@@ -42,5 +42,3 @@ TimeDistributed(Dense(1))
 - PV irradiance is noisy and seasonal → higher error expected
 - Forecasts feed into the MATLAB model to schedule charging
 
----
-
