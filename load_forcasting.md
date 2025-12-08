@@ -47,8 +47,8 @@ Actual vs Predicted (First 500 samples)
 ![Load Forecast](assets/img/load_forecast_plot.png)
 
 5️⃣ Interpretation
-	•	Model captures short-term load trends
-	•	Forecast smooths high-frequency noise
-	•	Suitable as input for Step 3 — scheduling optimization
+	- Model captures short-term load trends
+	- Forecast smooths high-frequency noise
+	• Suitable as input for Step 3 — scheduling optimization
 
 ---
