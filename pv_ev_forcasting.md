@@ -1,9 +1,4 @@
 ---
-
-# 📄 **4. pv_ev_forecasting.md**
-
-```markdown
----
 title: "Step 2B — PV & EV Multi-Step Forecasting"
 nav_order: 4
 ---

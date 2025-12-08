@@ -1,9 +1,4 @@
 ---
-
-# 📄 **5. matlab_simulation.md**
-
-```markdown
----
 title: "Step 3 — MATLAB Simulink System Model"
 nav_order: 5
 ---
