@@ -34,7 +34,7 @@ Models:
 
 ➡️ See:  
 - [Load Forecasting](load_forecasting.md)  
-- [PV & EV Forecasting](pv_ev_forecasting.md)
+- [PV & EV Forecasting](pv_ev_forcasting.md)
 
 ---
 
