@@ -31,11 +31,11 @@ TimeDistributed(Dense(1))
 
 2️⃣ Solar Forecasting Results
 
-![PV Forecast](assets/img/pv_forecast_sample.png)
+![PV Forecast](assets/img/LSTM_PV_Forcast.png)
 
 3️⃣ EV Availability Forecasting Results
 
-![EV Forecast](assets/img/ev_forecast_sample.png)
+![EV Forecast](assets/img/LSTM_EV_Forcast.png)
 
 4️⃣ Interpretation
 - EV availability forecasting performs extremely well
