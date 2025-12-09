@@ -31,9 +31,23 @@ TimeDistributed(Dense(1))
 
 2️⃣ Solar Forecasting Results
 
+| Metric | Value  |
+| ------ | ------ |
+| RMSE   | ~163.9 |
+| MAE    | ~39.1  |
+| MAPE   | ~186%  |
+
+
 ![PV Forecast](assets/img/LSTM_PV_Forcast.png)
 
 3️⃣ EV Availability Forecasting Results
+
+| Metric | Value    |
+| ------ | -------- |
+| RMSE   | 0.000013 |
+| MAE    | 0.000006 |
+| MAPE   | 0.001%   |
+
 
 ![EV Forecast](assets/img/LSTM_EV_Forcast.png)
 
