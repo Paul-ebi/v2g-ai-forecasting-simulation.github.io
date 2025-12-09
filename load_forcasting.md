@@ -42,7 +42,7 @@ Callbacks: EarlyStopping + ReduceLROnPlateau
 | ------ | -------- |
 |  MSE   | 0.208903 |
 |  MAE   | 0.285758 |
-|   R²   | 0.691373   |
+|   R²   | 0.691373 |
 
 
 4️⃣ Plots
