@@ -5,6 +5,7 @@ nav_order: 1
 
 # V2G AI Forecasting & Simulation 
 - By Paul &  Menyhárt
+
 A research implementation combining **AI forecasting**, **Simulink system modeling**, and **V2G optimization** for smart-grid management.
 
 ---
