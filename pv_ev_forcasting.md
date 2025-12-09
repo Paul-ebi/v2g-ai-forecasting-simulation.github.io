@@ -38,7 +38,7 @@ TimeDistributed(Dense(1))
 | MAPE   | ~186%  |
 
 
-![PV Forecast](img/LSTM_PV_Forcast.png)
+![PV Forecast](assets/img/LSTM_PV_Forcast.png)
 
 3️⃣ EV Availability Forecasting Results
 
@@ -49,7 +49,7 @@ TimeDistributed(Dense(1))
 | MAPE   | 0.001%   |
 
 
-![EV Forecast](main/assets/img/LSTM_EV_Forcast.png)
+![EV Forecast](assets/img/LSTM_EV_Forcast.png)
 
 4️⃣ Interpretation
 - EV availability forecasting performs extremely well
