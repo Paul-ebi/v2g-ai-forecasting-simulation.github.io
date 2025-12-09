@@ -47,8 +47,6 @@ Callbacks: EarlyStopping + ReduceLROnPlateau
 
 4️⃣ Plots
 
-(upload your plot images to /assets/img/ and reference them)
-
 Actual vs Predicted (First 500 samples)
 
 ![Load Forecast](assets/img/LSTM_Load_Forcast.png)
