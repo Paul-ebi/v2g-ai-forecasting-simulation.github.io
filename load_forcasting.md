@@ -37,6 +37,9 @@ Callbacks: EarlyStopping + ReduceLROnPlateau
 3️⃣ Results
 
 ✔ Model Metrics
+    |    MSE   |    MAE   |    R²    |
+    | :------- | :------: | -------: |
+    | 0.208903 | 0.285758 | 0.691373 |
 
 4️⃣ Plots
 
