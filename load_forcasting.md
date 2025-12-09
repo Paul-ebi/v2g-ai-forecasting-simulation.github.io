@@ -44,7 +44,7 @@ Callbacks: EarlyStopping + ReduceLROnPlateau
 
 Actual vs Predicted (First 500 samples)
 
-![Load Forecast](assets/img/load_forecast_plot.png)
+![Load Forecast](assets/img/LSTM_Load_Forcast.png)
 
 5️⃣ Interpretation
 - Model captures short-term load trends
