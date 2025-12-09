@@ -33,7 +33,7 @@ Models:
 - Seq2Seq LSTM architecture  
 
 ➡️ See:  
-- [Load Forecasting](load_forecasting.md)  
+- [Load Forecasting](load_forcasting.md)  
 - [PV & EV Forecasting](pv_ev_forcasting.md)
 
 ---
