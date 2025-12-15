@@ -1,6 +1,6 @@
 ---
 title: "Read Me"
-nav_order: 8
+nav_order: 1
 ---
 
 # 📁 Repository Structure
