@@ -10,6 +10,8 @@ A research implementation combining **AI forecasting**, **Simulink system modeli
 
 ---
 
+➡️ See: [Read Me](README.md)
+
 ## 📌 Project Components
 
 ### 1️⃣ Data Preparation (Step 1)
