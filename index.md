@@ -10,7 +10,7 @@ A research implementation combining **AI forecasting**, **Simulink system modeli
 
 ---
 
-➡️ See: [Read Me](README.md)
+➡️ See: [Read Me](readme.md)
 
 ## 📌 Project Components
 
