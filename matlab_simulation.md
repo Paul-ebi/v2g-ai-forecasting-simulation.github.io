@@ -1,6 +1,6 @@
 ---
 title: "Step 3 — MATLAB Simulink System Model"
-nav_order: 5
+nav_order: 6
 ---
 
 # Step 3 — MATLAB/Simulink System Model
