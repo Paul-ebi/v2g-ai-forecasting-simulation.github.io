@@ -27,13 +27,10 @@ This prepares a unified dataset for downstream forecasting models.
 > 2. AI Forecasting Layer
 (See: load_forcasting.md & pv_ev_forcasting.md)
 
-Your AI layer currently covers:
+Our AI layer currently covers:
 
 - Load Forecasting
 - LSTM baseline
-- Stacked LSTM
-- CNN-LSTM
-- Bidirectional LSTM
 - PV Generation & EV Availability Forecasting
 - 24-step multi-horizon LSTM
 - Seq2Seq encoder–decoder models
