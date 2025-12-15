@@ -5,23 +5,7 @@ nav_order: 1
 
 # 📁 Repository Structure
 
-main/
-│
-├── index.md                     # Homepage
-├── _config.yml                  # GitHub Pages Configuration
-│
-├── data_preprocessing.md        # Step 1: Data Cleaning & Feature Engineering
-├── load_forcasting.md           # Step 2a: Load Forecasting Models
-├── pv_ev_forcasting.md          # Step 2b: PV + EV Availability Forecasting
-├── matlab_simulation.md         # Step 3: Microgrid Simulation Model
-├── optimization.md              # Step 4: V2G Optimisation Models
-├── documentation.md             # Step 5: Notes, Diagrams, Methodology
-│
-├── assets/img/                   # All images, diagrams, plots
-│     └── *.png, *.jpg, *.svg
-│
-└── notebooks/                   # Jupyter Notebooks (.ipynb) for model training
-      └── *.ipynb
+![Project Directory Overview](assets/img/project_directory_overview.png)
 
 > 1. Data Preparation
 (See: data_preprocessing.md)
