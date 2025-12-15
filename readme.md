@@ -1,3 +1,8 @@
+---
+title: "V2G AI Forecasting & Simulation"
+nav_order: 8
+---
+
 # 📁 Repository Structure
 
 main/
